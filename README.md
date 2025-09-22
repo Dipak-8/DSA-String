@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Dipak-8/DSA-String/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Dipak-8/DSA-String/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Dipak-8/DSA-String/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/Dipak-8/DSA-String/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Dipak-8/DSA-String/tree/master/0812-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/Dipak-8/DSA-String/tree/master/1250-longest-common-subsequence) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Dipak-8/DSA-String/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dipak-8/DSA-String/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Dipak-8/DSA-String/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Dipak-8/DSA-String/tree/master/0812-rotate-string) |
 ## Sorting
 |  |
